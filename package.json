@@ -1,0 +1,22 @@
+{
+  "name": "hello-world-s21",
+  "version": "1.0.0",
+  "description": "Simple Hello World Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasSutanto239/node-hello-world-s21.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Nicholas Sutanto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NicholasSutanto239/node-hello-world-s21/issues"
+  },
+  "homepage": "https://github.com/NicholasSutanto239/node-hello-world-s21#readme"
+}
